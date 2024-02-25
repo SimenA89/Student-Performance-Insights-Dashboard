@@ -1,3 +1,4 @@
 # Student-Performance-Insights-Dashboard
 This project contains an interactive dashboard developed with Dash and Plotly in Python, designed to provide insight into the performance of students based on a dataset that includes math, reading and writing scores.
 The dashboard enables in-depth analysis through visualizations that highlight performance differences based on gender, the impact of lunch type, parental education level, and the effect of test preparation courses. Users can interactively explore the data to uncover patterns and trends, making this tool a valuable resource for teachers, students, and educational researchers seeking to understand and improve student achievement.
+![image](https://github.com/SimenA89/Student-Performance-Insights-Dashboard/assets/61123960/11c7d9c7-1bc4-43bc-9cd8-34084d3e039e)
